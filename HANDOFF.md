@@ -293,4 +293,5 @@ The content reflects **general North American utility practice and public standa
 | `grid-operations-diagram-v2.html` | The tool. Everything is in this file. |
 | `README.md` | Short overview (what, who, how) and the "What changed from the first version" list. |
 | `HANDOFF.md` | This document. |
+| `index.html` | Redirect to the tool so the GitHub Pages root URL (https://franklan-pm.github.io/grid-mod-operations/) opens it. Update it if the main file is renamed. |
 | `docs/screenshot.png` | README image of the Explore tab (dark mode, 2× scale). Retake after visual changes with headless Chrome: `chrome --headless=new --hide-scrollbars --force-device-scale-factor=2 --window-size=1500,1665 --virtual-time-budget=5000 --screenshot=docs/screenshot.png <file URL of the HTML>`. |
