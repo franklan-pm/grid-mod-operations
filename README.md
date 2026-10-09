@@ -1,5 +1,7 @@
 # Grid Operations: How the Layers Work Together
 
+> **This project has moved.** It is now chapter 4, *Grid operations*, of the [Grid Field Guide](https://github.com/franklan-pm/grid-field-guide), live at **https://franklan.net/apps/04-grid-operations/**. This repo is archived, and its old web address forwards there. The text below describes the original version.
+
 ![The Explore the model tab: a layered diagram from wholesale markets and forecasting down through the ADMS control room, head-ends and field devices to the physical power path, with color-coded data flows](docs/screenshot.png)
 
 This is an interactive, single-page learning tool that explains how a modern electric distribution utility's systems fit together. It has three tabs. **Explore the model** is a layered diagram running from wholesale markets and forecasting down through the ADMS control room, head-ends and field devices to the physical power path, with animated data flows. **Real-life scenarios** steps through five situations (heat wave peak, storm outage, sunny spring midday, planned maintenance, grid emergency) and lights up only the parts involved at each step. **Concepts quiz** has 50 multiple-choice questions with explanations, each linked back to the relevant parts of the diagram.
